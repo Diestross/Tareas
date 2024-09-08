@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/carva/Documents/NetBeansProjects/JEE_STUDENT/JEE_STUDENT-ejb/src/java/co/edu/unipiloto/arquitectura/student/session/AbstractFacade.java</file>
+            <file>file:/C:/Users/carva/Documents/NetBeansProjects/JEE_STUDENT/JEE_STUDENT-ejb/src/java/co/edu/unipiloto/arquitectura/student/entity/Student.java</file>
+            <file>file:/C:/Users/carva/Documents/NetBeansProjects/JEE_STUDENT/JEE_STUDENT-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/carva/Documents/NetBeansProjects/JEE_STUDENT/JEE_STUDENT-ejb/src/java/co/edu/unipiloto/arquitectura/student/session/StudentFacadeLocal.java</file>
+            <file>file:/C:/Users/carva/Documents/NetBeansProjects/JEE_STUDENT/JEE_STUDENT-ejb/src/java/co/edu/unipiloto/arquitectura/student/session/Student_facade.java</file>
+        </group>
+    </open-files>
+</project-private>
